@@ -3,3 +3,10 @@ hello. this is my archive of books.  well, i don't know why i spent time piecing
 
 # online at:
 https://archivebooks.repl.co
+
+# IMPORTANT
+complete and updated ebooks are in my calibre library:
+
+https://github.com/Cheerstoast/calibre
+
+this project will not be maintained actively, while the calibre library would have updates once in a while, and has more metadata...
