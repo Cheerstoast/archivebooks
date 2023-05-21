@@ -96,7 +96,9 @@
 
   <h3>anyway. look at every one of these books, please. one of them might just interest you.</h3><br>
 
-  <h1>P.S. source code <a href='https://replit.com/@archivebooks/archivebooks#index.php'>here</a></h1>
+  <h1>P.S. source code <a href='https://replit.com/@archivebooks/archivebooks#index.php'>here</a>, or, you know, <a href='https://github.com/Cheerstoast/archivebooks'>here</a></h1><br>
+
+  <h1>P.P.S. complete and updated ebooks are in my calibre library <a href='https://github.com/Cheerstoast/archivebooks'>here</a>, this project will <em>not</em> be maintained actively, while the calibre library would have updates once in a while, and has more metadata... </h1>
   </div>
   <ul>
 <?php
